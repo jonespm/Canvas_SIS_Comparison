@@ -6,3 +6,4 @@ Then run the syncarchive.sh script which will download the archive files.
 
 TODO: Document how to run the comparison script.
 
+python compare_sis.py enrollments ./archive/Canvas_Extract_202208180733.zip ./archive
